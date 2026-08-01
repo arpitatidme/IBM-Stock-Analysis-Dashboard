@@ -1,0 +1,6 @@
+pandas
+yfinance
+beautifulsoup4
+plotly
+requests
+lxml
